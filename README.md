@@ -8,3 +8,7 @@ ________________________________________________________________________________
 | Jurusan|Teknik Elektronika |
 | Prodi  |Informatika        |
  
+| Name  | Age |
+| ----- | --- |
+| Bob   | 27  |
+| Alice | 23  |
