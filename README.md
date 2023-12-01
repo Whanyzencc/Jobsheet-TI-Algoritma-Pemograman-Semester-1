@@ -1,3 +1,8 @@
 # Jobsheet Algo.Pemograman
 
- ## **Algoritma, Pemrograman, dan IDE**
+ ## **Pemrograman Dasar C**
+ =================================================================================================================
+| Name  | Whenny Zenica|
+| NIM|23343022|
+| Jurusan|Teknik Elektronika |
+| Prodi|Informatika|
