@@ -1,3 +1,3 @@
 # Jobsheet Algo.Pemograman
 
-# *Algoritma, Pemrograman, dan IDE*
+ ## **Algoritma, Pemrograman, dan IDE**
