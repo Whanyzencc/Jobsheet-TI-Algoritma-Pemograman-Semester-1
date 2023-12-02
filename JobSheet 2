@@ -1,0 +1,25 @@
+@@ -0,0 +1,14 @@
+/* 	nama tugas     : Jobsheet2
+	nama programer : Whenny zenica_23343022
+	Kasus Program  : HELLO WORD
+*/
+#include<cstdlib>
+#include<iostream>
+#include<conio.h>
+
+
+using namespace std;
+main(int argc,char *argv[])
+{
+	
+fflush (stdin);
+char nama[30];
+cout<<"Masukan Nama Kamu : ";
+cin>> nama;
+cout<<endl;
+cout<<"Hello "<<nama<<endl;
+cout<<"Selamat belajar Dev C++ " ;
+cout<<"\n\n";
+//system("POUSE");
+return 0;
+} 
