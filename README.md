@@ -1,9 +1,10 @@
-# Praktikum Algo.Pemograman
+# Praktikum Algorithm & Programming
 
  ## **PEMOGRAMAN C++ SEMESTER 1**
 
   ______________________
-
+“Everybody should learn to program a computer,
+because it teaches you how to think.”
 * **Name    : Whenny Zenica**      
 * **NIM     : 23343022**           
 * **Jurusan : Teknik Elektronika** 
