@@ -1,12 +1,15 @@
-# Jobsheet Algo.Pemograman
+# Praktikum Algo.Pemograman
 
  ## **Pemrograman Dasar C**
 
   ______________________
+
 * **Name    : Whenny Zenica**      
 * **NIM     : 23343022**           
 * **Jurusan : Teknik Elektronika** 
 * **Prodi   : Informatika**
+* **Dosen : Randi Proska Sandra, M.Sc**
+* **Sesi kelas : INF1.62.1008**
 
   
 ______________________
